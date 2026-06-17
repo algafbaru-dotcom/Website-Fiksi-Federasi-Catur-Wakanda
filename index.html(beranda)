@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Website Federasi Catur Seluruh 
         Wakanda (Beranda)</title>
-    <script src="script.js"></script>
 </head>
 <body id="beranda">
     <h1 class="title">Federasi Catur Seluruh Wakanda</h1>
