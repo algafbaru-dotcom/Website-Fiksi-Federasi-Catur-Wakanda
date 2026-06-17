@@ -1,0 +1,83 @@
+.title{
+    font-family:Impact, Haettenschweiler, 
+    'Arial Narrow Bold', sans-serif;
+    color: rgb(159, 113, 70);
+}
+
+.Ucapan {
+    font-family:Cambria, Cochin, Georgia, 
+    Times, 'Times New Roman', serif;
+    border: 2px solid rgb(255, 202, 42);
+    padding:10px;
+    background-color:bisque;
+    color:rgb(238, 145, 31);
+}
+button{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: bisque;
+    background-color: rgb(193, 147, 56);
+    border: 2px solid rgb(255, 202, 42);
+    padding: 10px;
+}
+
+#beranda{
+    background-color:rgb(252, 232, 206)
+}
+
+.intro{
+    color:rgb(159, 88, 2)
+}
+
+.kompetisi{
+    color:rgb(159,88,2)
+}
+
+ul{
+    color:saddlebrown
+}
+
+#tentang{
+    background-color:rgb(252, 232, 206)
+}
+
+#kontak{
+    background-color:rgb(252, 232, 206)
+}
+
+.copyright{
+    font-size: 10px;
+}
+
+.visi-misi{
+    color:saddlebrown;
+}
+
+.kontak{
+    color:saddlebrown;
+}
+
+p{
+    color:saddlebrown;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    border: 1px solid rgb(159, 88, 2);
+}
+
+a:link {
+        color: #f69903;
+    }
+    a:visited {
+        color: #898b1a;
+    }
+    a:hover {
+        color: #bbc112;
+    }
+    a:active {
+        color: #d59b07;
+    }
+
